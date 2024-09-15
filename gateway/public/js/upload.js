@@ -1,5 +1,5 @@
 
-console.log('Hello World');
+
 //
 // Upload a collection of files to the backend.
 //
